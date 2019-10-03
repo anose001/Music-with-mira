@@ -22,18 +22,20 @@
     max-width: 20rem;
     font-size: 1rem;
   }
-  @media(min-width: 768px) {
+  /* Medium devices (tablets, 768px and up) */
+  @media(min-width: 768px) { 
     h1 {
       font-size: 4rem;
       line-height: 4rem;
     }
   }
+  /* Large devices (desktops, 992px and up) */
   @media(min-width: 992px) {
     height: 100vh;
     padding: 0;
     h1 {
-      font-size: 6.5rem;
-      line-height: 6.5rem;
+      font-size: 10.5rem;
+      line-height: 10.5rem;
       letter-spacing: 0.8rem;
     }
     h2 {
