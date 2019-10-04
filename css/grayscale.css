@@ -112,6 +112,27 @@
   font-size: 1rem;
 }
 
+@media (min-width: 0px) {
+  .masthead {
+    height: 100vh;
+    padding: 0;
+  }
+}
+
+@media (min-width: 576px) {
+  .masthead {
+    height: 100vh;
+    padding: 0;
+  }
+}
+
+@media (min-width: 576px) {
+  .masthead {
+    height: 100vh;
+    padding: 0;
+  }
+}
+
 @media (min-width: 768px) {
   .masthead {
     height: 100vh;
