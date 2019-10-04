@@ -1,4 +1,4 @@
-/*!
+  /*!
  * Start Bootstrap - Grayscale v5.0.9 (https://startbootstrap.com/template-overviews/grayscale)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
@@ -168,20 +168,29 @@
 
 
 .about-section {
-  padding-top: 5rem;
+  padding-top: 3rem;
   background-color: #f8f9fa;
   /* Includes a linear background at the end of the header section */
   /* background: linear-gradient(to bottom, #161616 20%, rgba(248, 249, 250, 1) 60%, rgba(248, 249, 250, 1) 100%); */
-
 }
 
 .about-section p {
   margin-bottom: 2rem;
+  background-color: #f8f9fa;
 }
 
 .about-section img {
-  padding-left: 10.5rem;
-  padding-right: 11rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+  background-color: #f8f9fa;
+}
+
+@media (min-width: 992px) {
+  .about-section .featured-text {
+    padding: 0 0 0 2rem;
+    border-left: 0.5rem solid #64a19d;
+    background-color: #f8f9fa;
+  }
 }
 
 .projects-section {
