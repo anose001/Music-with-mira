@@ -317,7 +317,7 @@
 @media (min-width: 1200px) {
   .img-fluid {
    max-width: auto;
-   height: 100%;
+   
   }
   .teaching-section {
    height: 83vh; 
