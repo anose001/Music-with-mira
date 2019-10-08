@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
+.text-primary {
+  color: #64a19d !important;
+}
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
@@ -36,6 +40,7 @@
   outline: none;
   background-color: transparent;
 }
+
 
 @media (min-width: 992px) {
   #mainNav {
@@ -513,16 +518,16 @@ a:focus, a:hover {
   color: #3c6360;
 }
 
+.fas .fa-mobile-alt .green{
+  color: #00FF00;
+}
+
 .bg-black {
   background-color: #161616 !important;
 }
 
 .bg-primary {
   background-color: #64a19d !important;
-}
-
-.text-primary {
-  color: #64a19d !important;
 }
 
 footer {
