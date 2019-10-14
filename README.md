@@ -1,3 +1,10 @@
+# Music-with-Mira
+Music-with-Mira is website based of a free commercial to use bootstrap template modified by myself. The following provides a preview of the Music-with-Mira website and more down on this page the original Greyscale bootstrap theme and corresponding links and licenses.
+
+## Preview
+
+[![Grayscale Preview](https://github.com/anose001/Music-with-mira/preview.png)](https://anose001.github.io/Music-with-mira/)
+
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
