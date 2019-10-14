@@ -1,5 +1,5 @@
-# Music-with-Mira
-Music-with-Mira is website based of a free commercial to use bootstrap template modified by myself. The following provides a preview of the Music-with-Mira website and more down on this page the original Greyscale bootstrap theme and corresponding links and licenses.
+# [Music-with-Mira](https://anose001.github.io/Music-with-mira/)
+Music-with-Mira is private website to promote Mira as a piano teacher and establish an online presence with her background, teaching style and philosophy. It is based off a free commercial to use bootstrap template modified by myself. The following provides a preview of the Music-with-Mira website, which is followed by the original Greyscale bootstrap theme and corresponding links and licenses thereof.
 
 ## Preview
 
