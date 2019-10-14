@@ -3,7 +3,7 @@ Music-with-Mira is website based of a free commercial to use bootstrap template 
 
 ## Preview
 
-[![Grayscale Preview](https://github.com/anose001/Music-with-mira/preview.png)](https://anose001.github.io/Music-with-mira/)
+[![Grayscale Preview](https://github.com/anose001/Music-with-mira/blob/master/preview.png)](https://anose001.github.io/Music-with-mira/)
 
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
