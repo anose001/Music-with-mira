@@ -517,6 +517,17 @@ a:focus, a:hover {
   text-decoration: none;
   color: #3c6360;
 }
+/* Works for all images
+img {
+-ms-transform: rotate(90deg);
+-webkit-transform: rotate(90deg); 
+transform: rotate(90deg);
+}
+*/
+
+img {
+    image-orientation: from-image;
+}
 
 .fas .fa-mobile-alt .green{
   color: #00FF00;
