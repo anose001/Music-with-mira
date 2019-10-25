@@ -5,7 +5,7 @@
 
 [![Grayscale Preview](https://github.com/anose001/Music-with-mira/blob/master/preview.png)](https://anose001.github.io/Music-with-mira/)
 
-The main theme background image was provided by the user 'PublicDomainArchive / 209 images' from pixelbay for commecercial usage and can be found [at this place](https://pixabay.com/photos/piano-grand-piano-musical-instrument-349928/).
+The main theme background image was provided by the user 'PublicDomainArchive / 209 images' from pixelbay for commecercial usage and can be found [here](https://pixabay.com/photos/piano-grand-piano-musical-instrument-349928/).
 
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
