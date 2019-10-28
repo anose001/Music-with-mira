@@ -1,6 +1,9 @@
 # [Music-with-Mira](https://anose001.github.io/Music-with-mira/)
 [Music-with-Mira](https://anose001.github.io/Music-with-mira/) is personal website in German to promote Mira as a piano teacher and establish an online presence with her background, teaching style, and teaching philosophy. The website is based off a free commercial-to-use bootstrap template modified by myself. The following provides a preview of the Music-with-Mira website, which is followed by an description of the original Greyscale bootstrap theme and corresponding links and licenses thereof.
 
+# Auf Deutsch: [Musik-mit-Mira](https://anose001.github.io/Music-with-mira/)
+[Musik-mit-Mira](https://anose001.github.io/Music-with-mira/) Mira's persoenlich Internetpraesenz als Klavierlehrering mit ihrem Hintergrund, Unterrichtsmehtoden, und Unterrichtseinstellung. The website is based off a free commercial-to-use bootstrap template modified by myself. The following provides a preview of the Music-with-Mira website, which is followed by an description of the original Greyscale bootstrap theme and corresponding links and licenses thereof.
+
 ## Preview
 
 [![Grayscale Preview](https://github.com/anose001/Music-with-mira/blob/master/preview.png)](https://anose001.github.io/Music-with-mira/)
